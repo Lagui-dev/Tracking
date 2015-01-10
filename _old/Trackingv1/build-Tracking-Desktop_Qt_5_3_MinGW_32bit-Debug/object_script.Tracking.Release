@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\track.o
+./release\trackdb.o
+./release\trackdelegate.o
+./release\databasedatatypes.o
+./release\database.o
+./release\qrc_tracking.o
+./release\moc_track.o
+./release\moc_trackdb.o
+./release\moc_database.o
+);

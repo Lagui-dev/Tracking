@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\track.o
+./debug\trackdb.o
+./debug\trackdelegate.o
+./debug\databasedatatypes.o
+./debug\database.o
+./debug\qrc_tracking.o
+./debug\moc_track.o
+./debug\moc_trackdb.o
+./debug\moc_database.o
+);
